@@ -49,8 +49,8 @@ Display all edge-detected images for comparison.
 
 ## Developed By
 
-- **Name:** Krithika V
-- **Register No:** 212225040194 
+- **Name:** Sharan Kumar G
+- **Register No:** 212224230260 
 
 ## Original Image
 
@@ -104,21 +104,22 @@ plt.axis('off')
 - Detects edges in horizontal and vertical directions  
 - Produces gradient-based edge map  
 
-###  Prewitt Edge Detector
-- Similar to Sobel but simpler kernel  
-- Detects directional edges  
+<img width="392" height="517" alt="image" src="https://github.com/user-attachments/assets/083737a0-f29e-45bb-b693-28f843981573" />
 
-###  Roberts Edge Detector
-- Detects edges using diagonal gradients  
-- Sensitive to noise  
+ 
 
 ###  Laplacian Edge Detector
 - Detects edges using second-order derivatives  
 - Highlights rapid intensity changes  
 
+<img width="387" height="523" alt="image" src="https://github.com/user-attachments/assets/f25a138a-1fc0-4909-95e9-86d96f7d65d0" />
+
+
 ###  Canny Edge Detector
 - Multi-stage edge detection  
 - Produces clean and thin edges  
+
+<img width="398" height="518" alt="image" src="https://github.com/user-attachments/assets/de97f666-a469-4d55-b49e-66f0933b421c" />
 
 ---
 
